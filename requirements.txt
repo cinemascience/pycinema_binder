@@ -1,1 +1,2 @@
 pycinema
+python3-opencv
