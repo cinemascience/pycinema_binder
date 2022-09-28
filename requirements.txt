@@ -1,1 +1,2 @@
 pycinema
+opencv-python-headless
